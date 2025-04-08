@@ -1,4 +1,3 @@
-<!-- Inline CSS styling for a colorful, minimalistic design -->
 <style>
   body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -31,7 +30,7 @@
   .social-icons img, .tech-icons img {
     vertical-align: middle;
   }
-  /* Adjusting the icons size */
+
   .social-icons img {
     width: 28px;
     height: 28px;
@@ -40,7 +39,7 @@
     width: 32px;
     height: 32px;
   }
-  /* Divider */
+
   hr {
     border: none;
     height: 1px;
