@@ -1,3 +1,4 @@
+<!-- Inline CSS styling for a colorful, minimalistic design -->
 <style>
   body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -30,7 +31,7 @@
   .social-icons img, .tech-icons img {
     vertical-align: middle;
   }
-
+  /* Adjusting the icons size */
   .social-icons img {
     width: 28px;
     height: 28px;
@@ -39,7 +40,7 @@
     width: 32px;
     height: 32px;
   }
-
+  /* Divider */
   hr {
     border: none;
     height: 1px;
@@ -66,16 +67,16 @@ I'm a dedicated computer science enthusiast who believes that every line of code
 Stay connected with me through my social networks:
 
 <div class="social-icons">
-  <a href="https://www.instagram.com/pierogonzaless" title="Instagram" target="_blank">
+  <a href="https://www.instagram.com/yourusername" title="Instagram" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" alt="Instagram Icon" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61557622364773&comment_id=Y29tbWVudDoxMjIxODg4MTY2NzAyNTQwNzhfMTE4NTc5NjM0NjQxMjQyOQ%3D%3D&locale=es_LA " title="Facebook" target="_blank">
+  <a href="https://www.facebook.com/yourusername" title="Facebook" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" alt="Facebook Icon" />
   </a>
-  <a href="https://www.linkedin.com/in/piero-alessandro-gonzales-4b603b312/" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/yourusername" title="LinkedIn" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn Icon" />
   </a>
-  <a href="https://x.com/pierogonzaless" title="X (Twitter)" target="_blank">
+  <a href="https://x.com/yourusername" title="X (Twitter)" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/x.svg" alt="X Icon" />
   </a>
 </div>
