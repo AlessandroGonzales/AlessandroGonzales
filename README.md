@@ -1,10 +1,10 @@
-# 👋 Hello, World! I'm Alessandro
+# 👋 ¡Hola, Mundo! Soy Alessandro
 
-I'm a passionate Computer Science student and lifelong learner. I spend my days exploring technology, writing code, and feeding my curiosity with new ideas, challenges, and possibilities.
+Soy un apasionado estudiante de Ciencias de la Computación y un aprendiz de por vida. Paso mis días explorando la tecnología, escribiendo código y alimentando mi curiosidad con nuevas ideas, desafíos y posibilidades.
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Conéctate conmigo
 
 <a href="https://www.instagram.com/pierogonzaless/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -21,7 +21,7 @@ I'm a passionate Computer Science student and lifelong learner. I spend my days 
 
 ---
 
-## 💻 Technologies I Work With
+## 💻 Tecnologías con las que trabajo
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -34,18 +34,19 @@ I'm a passionate Computer Science student and lifelong learner. I spend my days 
 
 ---
 
-## 📚 About Me
+## 📚 Sobre mí
 
-- 🎓 I'm studying Computer Science and constantly leveling up my skills.
-- 🤓 I love solving problems and writing clean, efficient code.
-- 🌍 I'm interested in building projects that can have a global impact.
-- 💡 I believe in lifelong learning, curiosity, and a bit of humor to keep things fresh!
+- 🎓 Estoy estudiando Ciencias de la Computación y constantemente mejorando mis habilidades.
+- 🤓 Me encanta resolver problemas y escribir código limpio y eficiente.
+- 🌍 Me interesa construir proyectos que puedan tener un impacto global.
+- 💡 Creo en el aprendizaje continuo, la curiosidad y un poco de humor para mantener las cosas frescas.
+- 🚀 Me emociona el estudio y me encanta aprender todos los días.
+- 🌟 Aspiro a hacer de este mundo un lugar mejor a través de la tecnología.
 
 ---
 
-## ✨ Final Thought
+## ✨ Pensamiento final
 
-> “The best way to predict the future is to invent it.” — Alan Kay
+> "Un genio se compone de 10% talento y 90% esfuerzo." — Albert Einstein
 
-Let’s build something meaningful together. Feel free to reach out!
-
+Construyamos algo significativo juntos. ¡No dudes en contactarme!
