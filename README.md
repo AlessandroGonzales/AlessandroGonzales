@@ -1,10 +1,10 @@
-# 👋 ¡Hola, Mundo! Soy Alessandro
+# 👋 Hello, World! I'm Alessandro
 
-Soy un apasionado estudiante de Ciencias de la Computación y un aprendiz de por vida. Paso mis días explorando la tecnología, escribiendo código y alimentando mi curiosidad con nuevas ideas, desafíos y posibilidades.
+I'm a passionate Computer Science student and a lifelong learner. I spend my days exploring technology, writing code, and fueling my curiosity with new ideas, challenges, and possibilities.
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Connect with me
 
 <a href="https://www.instagram.com/pierogonzaless/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -21,7 +21,7 @@ Soy un apasionado estudiante de Ciencias de la Computación y un aprendiz de por
 
 ---
 
-## 💻 Tecnologías con las que trabajo
+## 💻 Technologies I Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -34,19 +34,19 @@ Soy un apasionado estudiante de Ciencias de la Computación y un aprendiz de por
 
 ---
 
-## 📚 Sobre mí
+## 📚 About Me
 
-- 🎓 Estoy estudiando Ciencias de la Computación y constantemente mejorando mis habilidades.
-- 🤓 Me encanta resolver problemas y escribir código limpio y eficiente.
-- 🌍 Me interesa construir proyectos que puedan tener un impacto global.
-- 💡 Creo en el aprendizaje continuo, la curiosidad y un poco de humor para mantener las cosas frescas.
-- 🚀 Me emociona el estudio y me encanta aprender todos los días.
-- 🌟 Aspiro a hacer de este mundo un lugar mejor a través de la tecnología.
+- 🎓 I'm studying Computer Science and constantly leveling up my skills.
+- 🤓 I love solving problems and writing clean, efficient code.
+- 🌍 I'm interested in building projects that can have a global impact.
+- 💡 I believe in lifelong learning, curiosity, and a bit of humor to keep things fresh.
+- 🚀 I'm excited about studying and love learning every single day.
+- 🌟 I aspire to make this world a better place through technology.
 
 ---
 
-## ✨ Pensamiento final
+## ✨ Final Thought
 
-> "Un genio se compone de 10% talento y 90% esfuerzo." — Albert Einstein
+> "A genius is composed of 10% talent and 90% effort." — Albert Einstein
 
-Construyamos algo significativo juntos. ¡No dudes en contactarme!
+Let’s build something meaningful together. Feel free to reach out!
