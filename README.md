@@ -17,13 +17,13 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 
 ## 🌐 Connect with me
 
-<a href="https://www.instagram.com/pierogonzaless/" target="_blank">
+<a href="https://www.instagram.com/alessandro.gzl/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=61557622364773&comment_id=Y29tbWVudDoxMjIxODg4MTY2NzAyNTQwNzhfMTE4NTc5NjM0NjQxMjQyOQ%3D%3D&locale=es_LA" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="https://www.linkedin.com/in/piero-alessandro-gonzales-4b603b312/" target="_blank">
+<a href="https://www.linkedin.com/in/alessandro-gonzales-letdoit2025/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/pierogonzaless" target="_blank">
@@ -35,8 +35,7 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 ## 💻 Technologies I Work With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://iconos8.es/icon/LwQEs9KnDgIo/postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
