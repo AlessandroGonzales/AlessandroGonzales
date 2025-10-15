@@ -16,19 +16,20 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 ---
 
 ## 🌐 Connect with me
-
-<a href="https://www.instagram.com/alessandro.gzl/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=61557622364773&comment_id=Y29tbWVudDoxMjIxODg4MTY2NzAyNTQwNzhfMTE4NTc5NjM0NjQxMjQyOQ%3D%3D&locale=es_LA" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://www.linkedin.com/in/alessandro-gonzales-letdoit2025/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/pierogonzaless" target="_blank">
-  <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-</a>
+<p align="center">
+  <a href="https://www.instagram.com/alessandro.gzl/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61557622364773&comment_id=Y29tbWVudDoxMjIxODg4MTY2NzAyNTQwNzhfMTE4NTc5NjM0NjQxMjQyOQ%3D%3D&locale=es_LA" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alessandro-gonzales-letdoit2025/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/pierogonzaless" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
 ---
 
