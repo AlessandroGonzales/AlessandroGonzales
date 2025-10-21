@@ -16,7 +16,6 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 
 ---
 
-<br>
 ## 💻 Technologies I Work With
 
 <p align="center">
@@ -27,7 +26,6 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 </p>
 
-<br>
 ---
 
 ## 🌐 Connect with me
@@ -46,7 +44,6 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
   </a>
 </p>
 
-<br>
 ---
 
 
