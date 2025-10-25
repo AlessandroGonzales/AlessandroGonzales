@@ -1,11 +1,11 @@
-# 👋 How's it going?, World! I'm Alessandro
+# 👋 How's it going?, World! I'm Alessandro.
 
 I'm a passionate Computer Science student and a lifelong learner. I spend my days exploring technology, writing code, and fueling my curiosity with new ideas, challenges, and possibilities.
 
 ---
 
 
-## 📚 About Me
+## 📚 About Me.
 
 - 🎓 I'm studying Computer Science and constantly leveling up my skills.
 - 🤓 I love solving problems and writing clean, efficient code.
@@ -16,7 +16,7 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 
 ---
 
-## 💻 Technologies I Work With
+## 💻 Technologies I Work With.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -27,7 +27,7 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with me.
 <p align="center">
   <a href="https://www.instagram.com/alessandro.gzl/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -46,7 +46,7 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 ---
 
 
-## ✨ Final Thought
+## ✨ Final Thought.
 
 > "A genius is composed of 10% talent and 90% effort." — Albert Einstein
 
