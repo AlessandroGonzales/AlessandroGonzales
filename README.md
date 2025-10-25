@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Alessandro
+# 👋 How's it going?, World! I'm Alessandro
 
 I'm a passionate Computer Science student and a lifelong learner. I spend my days exploring technology, writing code, and fueling my curiosity with new ideas, challenges, and possibilities.
 
@@ -51,5 +51,3 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 
 > "A genius is composed of 10% talent and 90% effort." — Albert Einstein
 
-
-Let’s build something meaningful together. Feel free to reach out!
