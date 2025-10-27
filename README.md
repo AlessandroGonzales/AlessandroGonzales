@@ -38,10 +38,6 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
   </a>
   <a href="https://www.linkedin.com/in/alessandro-gonzales-letdoit2025/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/pierogonzaless" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
 </p>
 
 ---
