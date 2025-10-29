@@ -1,22 +1,22 @@
 # 👋 How's it going? World! I'm Alessandro
 
-I'm a passionate Computer Science student and a lifelong learner. I spend my days exploring technology, writing code, and fueling my curiosity with new ideas, challenges, and possibilities.
+I'm a passionate Computer Science student and a lifelong learner. I spend my days exploring technology, writing code, and fueling my curiosity with new ideas, challenges, and possibilities
 
 ---
 
 
 ## 📚 About Me.
 
-- 🎓 I'm studying Computer Science and constantly leveling up my skills.
-- 🤓 I love solving problems and writing clean, efficient code.
-- 🌍 I'm interested in building projects that can have a global impact.
-- 💡 I believe in lifelong learning, curiosity, and a bit of humor to keep things fresh.
-- 🚀 I'm excited about studying and love learning every single day.
-- 🌟 I aspire to make this world a better place through technology.
+- 🎓 I'm studying Computer Science and constantly leveling up my skills
+- 🤓 I love solving problems and writing clean, efficient code
+- 🌍 I'm interested in building projects that can have a global impact
+- 💡 I believe in lifelong learning, curiosity, and a bit of humor to keep things fresh
+- 🚀 I'm excited about studying and love learning every single day
+- 🌟 I aspire to make this world a better place through technology
 
 ---
 
-## 💻 Technologies I Work With.
+## 💻 Technologies I Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -27,7 +27,7 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 
 ---
 
-## 🌐 Connect with me.
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.instagram.com/alessandro.gzl/" target="_blank">
@@ -43,7 +43,7 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 ---
 
 
-## ✨ Final Thought.
+## ✨ Final Thought
 
-> "A genius is composed of 10% talent and 90% effort." — Albert Einstein.
+> "A genius is composed of 10% talent and 90% effort." — Albert Einstein
 
