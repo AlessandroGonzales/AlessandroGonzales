@@ -5,7 +5,7 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 ---
 
 
-## 📚 About Me.
+## 📚 About Me
 
 - 🎓 I'm studying Computer Science and constantly leveling up my skills.
 - 🤓 I love solving problems and writing clean, efficient code.
