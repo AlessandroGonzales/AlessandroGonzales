@@ -47,5 +47,8 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 
 ## ✨ Final Thought
 
-> "A genius is composed of 10% talent and 90% effort." — Albert Einstein
+> "A genius is composed of 10% talent and 90% effort." — Albert Einstein.
+
+<br>
+> "I'm going for more...
 
