@@ -10,9 +10,9 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 - 🎓 I'm studying Computer Science and constantly leveling up my skills
 - 🤓 I love solving problems and writing clean, efficient code
 - 🌍 I'm interested in building projects that can have a global impact
-- 💡 I believe in lifelong learning, curiosity, and a bit of humor to keep things fresh.
-- 🚀 I'm excited about studying and love learning every single day.
-- 🌟 I aspire to make this world a better place through technology.
+- 💡 I believe in lifelong learning, curiosity, and a bit of humor to keep things fresh
+- 🚀 I'm excited about studying and love learning every single day
+- 🌟 I aspire to make this world a better place through technology
 
 ---
 
@@ -47,7 +47,7 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 
 ## ✨ Final Thought
 
-> "A genius is composed of 10% talent and 90% effort." — Albert Einstein.
+> "A genius is composed of 10% talent and 90% effort." — Albert Einstein
 
 <br>
 > "I'm going for more...
