@@ -7,9 +7,9 @@ I'm a passionate Computer Science student and a lifelong learner. I spend my day
 
 ## 📚 About Me
 
-- 🎓 I'm studying Computer Science and constantly leveling up my skills.
-- 🤓 I love solving problems and writing clean, efficient code.
-- 🌍 I'm interested in building projects that can have a global impact.
+- 🎓 I'm studying Computer Science and constantly leveling up my skills
+- 🤓 I love solving problems and writing clean, efficient code
+- 🌍 I'm interested in building projects that can have a global impact
 - 💡 I believe in lifelong learning, curiosity, and a bit of humor to keep things fresh.
 - 🚀 I'm excited about studying and love learning every single day.
 - 🌟 I aspire to make this world a better place through technology.
